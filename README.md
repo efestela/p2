@@ -32,3 +32,9 @@ git clone https://github.com/kullaniciadi/doktor-randevu-sistemi.git
 Uygulamayı başlatın:
 
 python doktor_randevu.py
+
+<img width="1141" height="715" alt="image" src="https://github.com/user-attachments/assets/23616a48-89c0-42f4-84f7-fcb2853e5997" />
+<img width="1139" height="711" alt="image" src="https://github.com/user-attachments/assets/c763f350-40dd-4476-8145-56f28b4d1b9c" />
+<img width="1136" height="714" alt="image" src="https://github.com/user-attachments/assets/c28b8725-2e3c-4926-aca3-058c54a8e074" />
+
+
